@@ -23,6 +23,9 @@ function Home() {
             Faculty
           </Tab>
           <Tab className="px-4 py-2 font-medium leading-5 text-gray-700 transition ease-in-out margin-3 text-md duration-450 hover:text-white-600 focus:outline-none focus:border-blue-600 focus:shadow-outline-blue active:text-gray-500">
+            Facility
+          </Tab>
+          <Tab className="px-4 py-2 font-medium leading-5 text-gray-700 transition ease-in-out margin-3 text-md duration-450 hover:text-white-600 focus:outline-none focus:border-blue-600 focus:shadow-outline-blue active:text-gray-500">
             Contact
           </Tab>
           <Tab className="px-4 py-2 font-medium leading-5 text-gray-700 transition ease-in-out margin-3 text-md duration-450 hover:text-white-600 focus:outline-none focus:border-blue-600 focus:shadow-outline-blue active:text-gray-500">
